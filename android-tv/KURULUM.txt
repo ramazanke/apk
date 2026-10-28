@@ -1,0 +1,11 @@
+Alpica TV Android TV projesi
+
+Bu paket hazır APK değildir. APK üretmek için:
+1. ZIP'teki android-tv ve .github klasörlerini GitHub deponuzun köküne birlikte yükleyin.
+2. GitHub Actions > Android TV APK > Run workflow.
+3. Başarılı çalışmadan AlpicaTV-AndroidTV-APK artifact'ını indirin.
+4. ZIP içindeki app-debug.apk dosyasını Android TV / Google TV'ye yükleyin.
+
+Site: https://ramazanke.github.io/Tvalp/
+Tamamen kumanda: Sağ/Sol kanal, OK kategori, Aşağı kanallar, Geri kapat/çıkış.
+Ayrıntılar android-tv/README.md içinde.
